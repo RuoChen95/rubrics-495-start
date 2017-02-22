@@ -1,2 +1,2 @@
 # rubrics-495-start
-udacity的前端作业p1
+udacity的前端第一个作业
